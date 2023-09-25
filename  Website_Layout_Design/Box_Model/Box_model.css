@@ -1,0 +1,11 @@
+.boxModel {
+    margin: 0 auto;
+    width: 800px;
+    border: 10px;
+    padding: 10px;
+    border-color: cadetblue aqua blue rebeccapurple;
+    border-style: solid;
+}
+.boxModel p {
+    border: 3px dotted darkblue;
+}

@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.head {
+    width: 100%;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 50px;
+}
+.head div {
+    width: 33.33%;
+    margin: 10px;
+}
+.item {
+    width: 150px;
+    height: 300px;
+}
+.head img {
+    border-radius: 10px;
+width: 100%;
+    margin: 5px;
+}
+.item:hover img{
+    zoom: initial;
+}
+.item2 img {
+    width: 30%;
+    margin-top: -1450px;
+    display: flex;
+    border-radius: 50%;
+    border: solid 3px blue;
+}
